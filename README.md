@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Leobrawlstars
-- 👀 I’m interested in brawl stars and soccer and basketball and football and coding
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in brawl stars and basketball and football and coding and cars
+- 🌱 I’m currently learning coding and chemistry
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: leo1690722@gmail.com
-- 😄 Pronouns: he him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to eat cookies
 
 <!---
